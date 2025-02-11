@@ -1,0 +1,12 @@
+streamlit
+pandas
+tensorflow
+numpy
+matplotlib
+scikit-learn
+opencv-python
+seaborn
+gdown
+kaggle
+kagglehub
+transformations
